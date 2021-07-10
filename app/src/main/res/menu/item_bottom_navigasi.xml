@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Beranda"
+        android:id="@+id/beranda"
+        android:icon="@drawable/ic_home_page"></item>
+    <item android:title="Akun"
+        android:id="@+id/akun"
+        android:icon="@drawable/ic_user"></item>
+</menu>

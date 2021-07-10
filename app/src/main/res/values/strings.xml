@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chapter 4</string>
+    <string name="email">Email</string>
+    <string name="prototype">PROTOTYPE</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
